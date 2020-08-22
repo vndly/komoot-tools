@@ -1,2 +1,1 @@
-# komoot-tools
-Komoot tools
+# Komoot tools
